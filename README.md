@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wwwdavedotpro
-- 👀 I’m interested in semiotics and image recognition 
+- 👀 I’m interested in semiotics, image recognition and metavideo
 - 🌱 I’m currently learning Haskell, python, C++, Solidity
 - 💞️ I’m looking to collaborate on Deep Learning, AI, Tensorflow, keras, w3, metavideo
 - 📫 How to reach me madbcndave@gmail.com
